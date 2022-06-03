@@ -6,6 +6,7 @@
 * https://programming-self-study.blogspot.com/2021/06/wxpython-textctrl-example.html?showComment=1625225078766
 * wxpython : https://www.python-izm.com/gui/wxpython/
 * 行番号 : https://2no.hatenablog.com/entry/2014/11/18/121425
+* メニュー : https://maku77.github.io/python/wxpython/menu.html
 
 # フォント
 ```
