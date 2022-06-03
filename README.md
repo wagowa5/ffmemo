@@ -1,8 +1,9 @@
 # ffmemo
 ログ変換用メモ帳
 
-# wxFont設定
-https://www.python-izm.com/gui/wxpython/wxpython_textctrl/
+# wx参考いろいろ
+* https://programming-self-study.blogspot.com/2021/06/wxpython-textctrl-example.html?showComment=1625225078766
+* https://www.python-izm.com/gui/wxpython/wxpython_textctrl/
 
 # フォント
 ```
