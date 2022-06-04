@@ -1,0 +1,15 @@
+C:\Users\iw261\source\repos\FFMemo\FFMemo\bin\Debug\netcoreapp3.1\FFMemo.exe
+C:\Users\iw261\source\repos\FFMemo\FFMemo\bin\Debug\netcoreapp3.1\FFMemo.deps.json
+C:\Users\iw261\source\repos\FFMemo\FFMemo\bin\Debug\netcoreapp3.1\FFMemo.runtimeconfig.json
+C:\Users\iw261\source\repos\FFMemo\FFMemo\bin\Debug\netcoreapp3.1\FFMemo.runtimeconfig.dev.json
+C:\Users\iw261\source\repos\FFMemo\FFMemo\bin\Debug\netcoreapp3.1\FFMemo.dll
+C:\Users\iw261\source\repos\FFMemo\FFMemo\bin\Debug\netcoreapp3.1\FFMemo.pdb
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.csprojAssemblyReference.cache
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.Form1.resources
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.csproj.GenerateResource.cache
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.AssemblyInfoInputs.cache
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.AssemblyInfo.cs
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.csproj.CoreCompileInputs.cache
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.dll
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.pdb
+C:\Users\iw261\source\repos\FFMemo\FFMemo\obj\Debug\netcoreapp3.1\FFMemo.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFMemo", "FFMemo\FFMemo.csproj", "{92CDC5E1-427F-4EB1-920B-3F718DDC8563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CDC5E1-427F-4EB1-920B-3F718DDC8563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CDC5E1-427F-4EB1-920B-3F718DDC8563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CDC5E1-427F-4EB1-920B-3F718DDC8563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CDC5E1-427F-4EB1-920B-3F718DDC8563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862C7E2A-66DD-49D2-95C1-D84AEFA17CC2}
+	EndGlobalSection
+EndGlobal
