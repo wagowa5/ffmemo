@@ -9,9 +9,3 @@
 * wxpython : https://www.python-izm.com/gui/wxpython/
 * 行番号 : https://2no.hatenablog.com/entry/2014/11/18/121425
 * メニュー : https://maku77.github.io/python/wxpython/menu.html
-
-# フォント
-```
-https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone_SSF.woff
-https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone_SSF.ttf
-```
